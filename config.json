@@ -9,7 +9,7 @@
       
       "addon": false,
       "maps": false,
-      "texture": true,
+      "texture": false,
       "skin": true,
       "more": false,
       
@@ -55,37 +55,12 @@
   ],
   "Texture": [
     {
-        "name": "Mobs2021 Addon - Bug Fixes! (B)",
-        "role": "Sad why I don't win the copper golem or the glare? well stop being because I bring a complement for your minecraft that adds to the copper golem and the glare. each with their behaviors",
-        "image": "https://kossandroid.com/Data Android/Minecraft/copper golem/4/1.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/copper golem/4/Mobs2021_BH.mcpack",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/copper golem/4/2.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/copper golem/4/3.png"
-    },
-    
-    {
-        "name": "Copper Golem Concept | Beta (B)",
-        "role": "A few days ago it was the mob voting and the copper golem failed to be the winner. So I made this addon to see a concept of what it could have been.",
-        "image": "https://kossandroid.com/Data Android/Minecraft/copper golem/5/1.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/copper golem/5/Copper_Golem_Concept_BP.mcpack",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/copper golem/5/2.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/copper golem/5/3.png"
-    },
-    {
-        "name": "Mobs2021 Addon - Bug Fixes!(R)",
-        "role": "Sad why I don't win the copper golem or the glare? well stop being because I bring a complement for your minecraft that adds to the copper golem and the glare. each with their behaviors",
-        "image": "https://kossandroid.com/Data Android/Minecraft/copper golem/4/1.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/copper golem/4/Mobs2021_RS.mcpack",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/copper golem/4/2.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/copper golem/4/3.png"
-    },
-    {
-        "name": "Copper Golem Concept | Beta (R)",
-        "role": "A few days ago it was the mob voting and the copper golem failed to be the winner. So I made this addon to see a concept of what it could have been.",
-        "image": "https://kossandroid.com/Data Android/Minecraft/copper golem/5/1.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/copper golem/5/Copper_Golem_Concept_RP.mcpack",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/copper golem/5/2.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/copper golem/5/3.png"
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
     }
   ],
   "Skins": [
